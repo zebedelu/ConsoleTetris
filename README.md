@@ -15,7 +15,7 @@ Tudo foi feito **em apenas 1 dia**, sem utilizar nenhuma ferramenta de IA, apena
 
 ## Tecnologias
 
-- **Python 3** puro
+- **Python** puro
 - Sem bibliotecas extras
 
 ## Como jogar
